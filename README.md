@@ -1,2 +1,2 @@
 # K-Means-Clustering
-Simple demonstration of K means Clustering using a student CGPA vs IQ dataset.
+Simple demonstration of K means Clustering using a student CGPA vs IQ dataset and the Iris dataset.
